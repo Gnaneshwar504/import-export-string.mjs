@@ -7,3 +7,4 @@ Write a string `Be Happy and Safe` in the file `exportString.mjs` and export it 
 Import the string in the `importString.mjs` file.
 
 <b>Use ES6 module syntax</b>.
+# import-export-string.mjs
